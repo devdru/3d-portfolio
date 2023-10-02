@@ -1,0 +1,8 @@
+#artcanvas{
+    height: 100vh !important;
+    overflow: auto;
+}
+
+#artcanvas::-webkit-scrollbar {
+    display: none;
+}

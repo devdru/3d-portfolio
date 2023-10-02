@@ -1,0 +1,19 @@
+#scard{
+    background-color: white;
+    padding: 5%;
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+    border-radius: 15px;
+    width: 30%;
+}
+
+#simg{
+    width: 100%;
+}
+
+.sgg{
+    width:100px !important;
+    height: 100px !important;
+    margin: 10%;
+}
